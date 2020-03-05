@@ -1,6 +1,6 @@
 # remote puppeteer example
 
-This project show you how you can work with express and puppetter.
+This project show you how to work with express and puppetter.
 
 ## Get Started
 
